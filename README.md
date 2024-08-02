@@ -6,6 +6,7 @@ Proceso.
   - Regresión logística
   - KNN
   - Red neuronal
-  
-![Texto alternativo](Images/Image02.PNG){: width="400" height: "400"}
+
+<img src="Images/Image02.PNG" alt="Descripción de la imagen" width="300" height="200" />
+![Texto alternativo](Images/Image02.PNG)
 
