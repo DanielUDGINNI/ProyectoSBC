@@ -7,6 +7,5 @@ Proceso.
   - KNN
   - Red neuronal
 
-<img src="Images/Image02.PNG" alt="Descripción de la imagen" width="300" height="200" />
-![Texto alternativo](Images/Image02.PNG)
+<img src="Images/Image02.PNG" alt="Descripción de la imagen" width="500" height="500" />
 
