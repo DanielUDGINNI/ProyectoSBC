@@ -5,6 +5,8 @@ Proyecto de la materia de Seminario de Solucion de Problemas Sistemas Basados en
 ## Overview
 Project for the course 'Problem-Solving Seminar' on Knowledge-Based Systems, implemented in Python, where logistic regression, k-NN, and neural network modeling are developed practically without using ML libraries.
 
+- Language programming: Python
+
 Proceso / Process
 - Algoritmos Machine Learning/Algorithms
   - Regresión logística / logistic regression
